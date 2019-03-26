@@ -2387,7 +2387,7 @@ input[type="radio"]+label:before {
 }
 
 .box.features .features-row section :last-child {
-  margin-bottom: 0;
+  margin-bottom: 15px;
 }
 
 .box.features .features-row section:nth-child(2n) {
@@ -2488,7 +2488,7 @@ input[type="radio"]+label:before {
   background: #666;
   border-radius: 100%;
   color: #ffffff;
-  cursor: default;
+  cursor: pointer;
   display: inline-block;
   height: 5.5em;
   line-height: 5.5em;
@@ -3317,7 +3317,7 @@ body.landing #page-wrapper {
 /* Main */
 
 #main {
-  padding: 4em 0;
+  padding: 4em 0 0;
 }
 
 #main>header {
